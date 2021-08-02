@@ -2,3 +2,4 @@ Bencher-Scenario-IntValidation-*
 .build
 *~
 nytprof*
+.DS_Store
